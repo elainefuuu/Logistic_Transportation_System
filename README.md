@@ -6,3 +6,11 @@ In the first part of the project, we analyze the local economic and social situa
 As Moonbucks decided to have a local central distribution center in each country, the delivery routes for each truck shall be calculated to ensure the delivery is optimized. By using the greedy algorithm, we determined the location of the store in the center. This store shall be the distribution center of at least 5 local stores in the particular country. The shortest delivery route for each truck to make an optimal delivery is then plotted. After that, the program keeps track of the total distance the truck will be making for the delivery for each country. 
 
 The running costs for delivering logistics is also considered for the expansion of business in a country. Based on the calculation done, we used the recommendation algorithm to rank the countries based on the total journey made for deliveries of each country. With the ranking of countries, the location of new stores is recommended for business expansion.
+
+Team members:\
+Phang Kean Seng\
+Fu Yik Lyn\
+Wang Yixiang\
+Muhammad Amirul Hakiem bin Sabarudin\
+Richie Lau Zhe Chie\
+Wan Nazreena binti Wan Ahmed
